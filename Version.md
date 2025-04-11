@@ -1,4 +1,6 @@
-Every Month 1 More Version
+Every Week 1 More Version
+
+Current Version: V2
 
 final version: V5
 
